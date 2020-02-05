@@ -1,0 +1,19 @@
+{
+  "name": "earthquake-data-maped",
+  "version": "1.0.0",
+  "description": "",
+  "main": "earthquake.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Random-COSMOS/Earthquake-Data-Mapped.git"
+  },
+  "author": "RANDOM cosmos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Random-COSMOS/Earthquake-Data-Mapped/issues"
+  },
+  "homepage": "https://github.com/Random-COSMOS/Earthquake-Data-Mapped#readme"
+}
