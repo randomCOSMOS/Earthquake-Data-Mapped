@@ -38,7 +38,6 @@ d3.csv(earthquakeData)
         }
     }), 1000 * 60);
 
-// from => https://stackoverflow.com/questions/4954768/automatic-redirection-to-https
 var loc = window.location.href + '';
 if (loc.indexOf('http://') == 0) {
     window.location.href = loc.replace('http://', 'https://');
